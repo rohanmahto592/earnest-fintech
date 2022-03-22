@@ -5,7 +5,7 @@
 
 ## `Tech Stack used`
 
-- Material-ui for user interface
+- Material-UI for user interface
 - React.js
 ---
 ## `why material-UI??`
